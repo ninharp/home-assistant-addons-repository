@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  heimdall:
+    repository: ninharp/homer-home-assistant-addon
+    target: heimdall
+    image: ghcr.io/ninharp/homer/{arch}
